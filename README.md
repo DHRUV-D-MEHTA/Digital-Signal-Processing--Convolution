@@ -88,6 +88,7 @@ ylabel('amplitude');
 
 
 ## OUTPUT:
+<img width="1918" height="1016" alt="PRINTEXP1" src="https://github.com/user-attachments/assets/e4223574-ad2f-40da-ac6b-20196ceade41" />
 
 
 ## RESULT:
