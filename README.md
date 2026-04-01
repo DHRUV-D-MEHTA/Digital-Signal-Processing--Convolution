@@ -91,4 +91,5 @@ ylabel('amplitude');
 
 
 ## RESULT:
+![WhatsApp Image 2026-04-01 at 6 04 00 PM](https://github.com/user-attachments/assets/7b1684ae-84e1-44fc-804a-83d17498a19f)
 
